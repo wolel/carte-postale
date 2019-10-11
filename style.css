@@ -1,0 +1,99 @@
+.cadre{
+    background-color:white;
+    width: 700px;
+    height: 400px;
+    position: absolute;
+    box-shadow: 6px 6px 12px rgba(13,27,21,0.99);
+    margin-left: 400px;
+    border: 5px groove rgba(11,29,24,0.87);
+}
+body{
+    background-color: rgba(37,76,65,0.99);
+}
+#timbre{
+    width: 80px;
+    height: 120px;
+    border: 2px solid black;
+    float: right;
+    margin-top: -330px;
+    margin-right: 30px;
+
+}
+#texteGauche1{
+    padding-left: 50px;
+    padding-top: 80px;
+    padding-bottom: 20px;
+    font-family: Candara, serif;
+
+}
+#texteGauche2{
+    padding-left: 50px;
+    font-family: Candara, serif;
+}
+#ligneVert{
+    color: black;
+    margin-left: 390px;
+    margin-top: -235px;
+
+
+}
+
+#petitCarré1{
+    width: 15px;
+    height: 20px;
+    background-color: aquamarine;
+    float: right;
+    margin-right: 175px;
+    margin-top: -20px;
+}
+#petitCarré2{
+    width: 15px;
+    height: 20px;
+    background-color: aquamarine;
+    float: right;
+    margin-right: 195px;
+    margin-top: -20px;
+}
+#petitCarré3{
+    width: 15px;
+    height: 20px;
+    background-color: aquamarine;
+    float: right;
+    margin-right: 215px;
+    margin-top: -20px;
+}
+#petitCarré4{
+    width: 15px;
+    height: 20px;
+    background-color: aquamarine;
+    float: right;
+    margin-right: 239px;
+    margin-top: -20px;
+}
+#petitCarré5{
+    width: 15px;
+    height: 20px;
+    background-color: aquamarine;
+    float: right;
+    margin-right: 262px;
+    margin-top: -20px;
+}
+
+#ligneHoriz1{
+    margin-right: 30px;
+    margin-top: -10px;
+}
+
+#ligneHoriz2{
+    margin-right: 30px;
+    margin-top: -40px;
+}
+#ligneHoriz3{
+    margin-right: 30px;
+    margin-top: -40px;
+}
+#ligneHoriz4{
+    margin-right: 30px;
+    margin-top: -40px;
+}
+
